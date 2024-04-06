@@ -1,0 +1,9 @@
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+npm install @radix-ui/react-dialog
+
+npm i sonner
+
+npm install -D @types/dom-speech-recognition
