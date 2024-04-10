@@ -7,3 +7,5 @@ npm install @radix-ui/react-dialog
 npm i sonner
 
 npm install -D @types/dom-speech-recognition
+
+npm install gh-pages --save-dev
